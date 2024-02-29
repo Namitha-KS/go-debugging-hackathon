@@ -38,5 +38,5 @@ func main() {
 	// call calculate_circle_area from third.go
 	radius := b
 	area := calculate_circle_area(float64(radius))
-	fmt.Println("Area of Circle = ", area)
+	fmt.Println("area : ", area)
 }
